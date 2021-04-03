@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: 'zuul'
+    name: 'api-gateway'
 
 eureka:
   client:

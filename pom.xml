@@ -8,10 +8,10 @@
 		<version>2.1.5.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>br.com.alopes</groupId>
-	<artifactId>zuul</artifactId>
+	<groupId>br.com.alopes.microservice</groupId>
+	<artifactId>ms-api-gateway</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>zuul</name>
+	<name>ms-api-gateway</name>
 	<description>Projeto para exemplificar o uso de API Gateway</description>
 	<properties>
 		<java.version>1.8</java.version>
